@@ -8,7 +8,7 @@
 
     #define GROUND_HEIGHT 20
 
-    #define CUBE_SIZE 30
+    #define CUBE_SIZE 40
 
     #define GRAVITY_FORCE 0.5
 
